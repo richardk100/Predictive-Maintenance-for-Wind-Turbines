@@ -1,5 +1,4 @@
 # Predictive-Maintenance-for-Wind-Turbines
-# Predictive Maintenance for Wind Turbines
 
 This project leverages machine learning to predict equipment failures in wind turbines. Using sensor data such as temperature, vibration, and acoustic readings, the model can detect potential failures before they occur, allowing for proactive maintenance and reducing downtime.
 
